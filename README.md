@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Hatem-Nasser
 #### Mobile application developer  
 
-Skills: Dart/Flutter/
+Skills: 
+*Dart
+*Flutter
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning I am now learning how to develop mobile applications in flutter 
