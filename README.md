@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Hatem-Nasser
 ## Mobile application developer  
 
-<img src="https://insights.daffodilsw.com/hs-fs/hubfs/Archna/Flutter%20Dart.png?width=700&name=Flutter%20Dart.png" alt="gif" />
+<img src="https://insights.daffodilsw.com/hs-fs/hubfs/Archna/Flutter%20Dart.png?width=700&name=Flutter%20Dart.png" white="300" alt="gif" />
 Skills: 
        Dart
        /Flutter
