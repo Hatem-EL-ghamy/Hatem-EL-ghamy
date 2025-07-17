@@ -45,6 +45,23 @@ Every project I make feels like setting sail on the Grand Line from **One Piece*
 <p align="center">
   <img src="https://media.tenor.com/FSgYOlKfDUYAAAAC/hunter-x-hunter-hxh.gif" width="400" alt="Hunter X Hunter" />
 </p>
+## 🎥 My Favorite Anime Corner
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d1/d3/7e/d1d37e7b15697ea6f31cbfb6f5e7e70c.gif" width="230" alt="Naruto">
+  <img src="https://wallpapercave.com/wp/wp7418473.jpg" width="230" alt="One Piece">
+  <img src="https://i.pinimg.com/originals/c9/40/d0/c940d0465e99cf5cf103d9ef72b015de.gif" width="230" alt="Attack on Titan">
+</p>
+
+<p align="center">
+  <b>🥷 Naruto</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>🏴‍☠️ One Piece</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>💥 Attack on Titan</b>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/FSgYOlKfDUYAAAAC/hunter-x-hunter-hxh.gif" width="350" alt="Hunter x Hunter gif">
+</p>
+
+<p align="center"><b>🔫 Hunter x Hunter — Tactical genius & pure adventure</b></p>
 
 ---
 
