@@ -51,11 +51,15 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 ## 🎥 My Favorite Anime Corner
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/cd8d193b7a67e0277e6478782580fbd7/tenor.gif" width="350" alt="Naruto Sage Mode Frog Summon">
+  <img src="https://media.tenor.com/RkoTXXYhbhcAAAAC/naruto-uzumaki.gif" width="350" alt="Naruto Epic GIF">
 </p>
 
 <p align="center">
-  <b>🥷 Naruto — Sage Mode: Frog Summons, Unbreakable Will & Shinobi Resolve</b>
+  <img src="https://media.tenor.com/5Yeq1X6KM4UAAAAC/naruto-rasengan.gif" width="500" alt="Naruto Rasengan GIF">
+</p>
+
+<p align="center">
+  <b>🥷 Naruto — Unbreakable Will, Relentless Spirit & Shinobi Resolve</b>
 </p>
 
 ---
