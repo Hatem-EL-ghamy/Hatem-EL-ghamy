@@ -51,20 +51,16 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 ## 🎥 My Favorite Anime Corner
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d1/d3/7e/d1d37e7b15697ea6f31cbfb6f5e7e70c.gif" width="230" alt="Naruto">
-  <img src="https://wallpapercave.com/wp/wp7418473.jpg" width="230" alt="One Piece">
-  <img src="https://i.pinimg.com/originals/c9/40/d0/c940d0465e99cf5cf103d9ef72b015de.gif" width="230" alt="Attack on Titan">
+  <img src="https://i.pinimg.com/originals/4c/35/fd/4c35fdc4be44d2786f37b222349c8820.gif" width="350" alt="Naruto Epic GIF">
 </p>
 
 <p align="center">
-  <b>🥷 Naruto</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>🏴‍☠️ One Piece</b> &nbsp;&nbsp;|&nbsp;&nbsp; <b>💥 Attack on Titan</b>
+  <img src="https://wallpapercave.com/wp/wp5120140.jpg" width="500" alt="Naruto Poster">
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/FSgYOlKfDUYAAAAC/hunter-x-hunter-hxh.gif" width="350" alt="Hunter x Hunter gif">
+  <b>🥷 Naruto — Story of Hard Work, Friendship & Never Giving Up</b>
 </p>
-
-<p align="center"><b>🔫 Hunter x Hunter — Tactical genius & pure adventure</b></p>
 
 ---
 
