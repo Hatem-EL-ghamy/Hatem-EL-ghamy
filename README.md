@@ -55,11 +55,11 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 </p>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp5120140.jpg" width="500" alt="Naruto Poster">
+  <img src="https://i.pinimg.com/originals/cd/8d/19/cd8d193b7a67e0277e6478782580fbd7.jpg" width="500" alt="Naruto Sage Mode Poster">
 </p>
 
 <p align="center">
-  <b>🥷 Naruto — Story of Hard Work, Friendship & Never Giving Up</b>
+  <b>🥷 Naruto — Unbreakable Will, Relentless Spirit, and Shinobi Resolve</b>
 </p>
 
 ---
