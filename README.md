@@ -10,40 +10,40 @@
 ## 🗡️ Who Am I?
 Like a 🥷 **Shinobi** from **Naruto**, I work silently but effectively on **mobile app development** with Flutter & Dart. I love turning **complex logic into smooth, user-friendly apps**, just like how 🎯 **Gon** from **Hunter x Hunter** breaks limits step by step.
 
-- 🎓 **CS Graduate** – blending tech & creativity
-- 🎨 **UI/UX Designer** – inspired by clean anime frames
-- 📱 **Mobile Developer** – building cross-platform apps
-- 🇪🇬 **Egyptian** – based in Assiut, working globally
+- 🎓 **CS Graduate** – blending tech & creativity  
+- 🎨 **UI/UX Designer** – inspired by clean anime frames  
+- 📱 **Mobile Developer** – building cross-platform apps  
+- 🇪🇬 **Egyptian** – based in Assiut, working globally  
 
 ---
 
 ## 🏴‍☠️ Projects Like Grand Adventures
 Every project I make feels like setting sail on the 🌊 **Grand Line** from **One Piece**.
 
-| 🚀 **Project** | 🛠️ **Key Skills** | 📜 **Description** |
-| ----------- | ----------- | ----------- |
-| **Jobizaa** | 🏗️ Clean Architecture | Flutter job app with clean UI and Git mastery |
-| **Hospital App** | 🩺 Navigation Mastery | Seamless appointments and user flow |
-| **Smart Finance UI** | 💰 UI Prototyping | High-fidelity finance dashboard (Figma) |
+| 🚀 **Project**           | 🛠️ **Key Skills**       | 📜 **Description**                              |
+|--------------------------|--------------------------|--------------------------------------------------|
+| **Jobizaa**              | 🏗️ Clean Architecture  | Flutter job app with clean UI and Git mastery  |
+| **Hospital App**         | 🩺 Navigation Mastery   | Seamless appointments and user flow            |
+| **Smart Finance UI**     | 💰 UI Prototyping       | High-fidelity finance dashboard (Figma)        |
 
 ---
 
 ## 💥 Power Stats
 > *“If you want to understand someone, look at how they code.”* – probably **Eren Yeager**
 
-| 🧩 **Skills** | 🔋 **Level** | 💫 **Anime Reflection** |
-|---------|-------|-----------------|
-| **Flutter/Dart** | 🟣🟣🟣🟣🟣 | Mastery like **Itachi** 🥷 |
-| **State Management (Bloc/Cubit)** | 🟣🟣🟣🟣⚫ | Strategy like **Levi** ⚔️ |
-| **UI/UX Design** | 🟣🟣🟣🟣⚫ | Creative like **Makunouchi Ippo** 🥊 |
-| **Git/GitHub** | 🟣🟣🟣🟣🟣 | Organized like **Shikamaru** ♟️ |
-| **Clean Architecture** | 🟣🟣🟣🟣⚫ | Clean thinking like **Ging Freecss** 🔎 |
+| 🧩 **Skills**     | 🔋 **Level**       | 💫 **Anime Reflection**                             |
+|------------------|-------------------|-----------------------------------------------------|
+| **Flutter/Dart** | 🟣🟣🟣🟣🟣        | Mastery like **Itachi** 🥷                        |
+| **Bloc/Cubit**   | 🟣🟣🟣🟣⚫        | Strategy like **Levi** ⚔️                        |
+| **UI/UX Design** | 🟣🟣🟣🟣⚫        | Creative like **Makunouchi Ippo** 🥊             |
+| **Git/GitHub**   | 🟣🟣🟣🟣🟣        | Organized like **Shikamaru** ♟️                 |
+| **Clean Arch.**  | 🟣🟣🟣🟣⚫        | Clean thinking like **Ging Freecss** 🔎           |
 
 ---
 
 ## 🖌️ My Code Looks Like Anime Frames
 <p align="center">
-  <img src="https://media.tenor.com/FSgYOlKfDUYAAAAC/hunter-x-hunter-hxh.gif" width="400" alt="Hunter X Hunter" />
+  <img src="https://media.tenor.com/FSgYOlKfDUYAAAAC/hunter-x-hunter-hxh.gif" width="400" alt="Hunter x Hunter coding style" />
 </p>
 
 ---
@@ -51,15 +51,11 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 ## 🎥 My Favorite Anime Corner
 
 <p align="center">
-  <img src="https://media.tenor.com/RkoTXXYhbhcAAAAC/naruto-uzumaki.gif" width="350" alt="Naruto Epic GIF">
+  <img src="https://tenor.com/view/sage-mode-naruto-sage-gif-5211929" width="400" alt="Naruto Sage Mode Frog Summon" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/5Yeq1X6KM4UAAAAC/naruto-rasengan.gif" width="500" alt="Naruto Rasengan GIF">
-</p>
-
-<p align="center">
-  <b>🥷 Naruto — Unbreakable Will, Relentless Spirit & Shinobi Resolve</b>
+  <b>🥷 Naruto — Sage Mode: Frog Summons, Unbreakable Will & Shinobi Resolve</b>
 </p>
 
 ---
@@ -76,16 +72,16 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 ---
 
 ## 🎯 Training Arc Never Ends
-- 💪 Like **Rock Lee**, I value consistency over talent.
-- 🌌 Like **Luffy**, I dream big.
-- 🧩 Like **Kurapika**, I pay attention to every detail.
-- 🏹 Like **Gon**, I aim for constant growth.
+- 💪 Like **Rock Lee**, I value consistency over talent.  
+- 🌌 Like **Luffy**, I dream big.  
+- 🧩 Like **Kurapika**, I pay attention to every detail.  
+- 🏹 Like **Gon**, I aim for constant growth.  
 
 ---
 
 ## 📬 Connect With Me
-- 📧 hatemn480@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/hatem-nasser-906637318)
+- 📧 hatemn480@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/hatem-nasser-906637318)  
 - 👨‍💻 [GitHub](https://github.com/Hatem-EL-ghamy)
 
 ---
