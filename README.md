@@ -51,7 +51,8 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 ## 🎥 My Favorite Anime Corner
 
 <p align="center">
-  <img src="https://tenor.com/view/sage-mode-naruto-sage-gif-5211929" width="400" alt="Naruto Sage Mode Frog Summon" />
+  <img src="[https://tenor.com/view/sage-mode-naruto-sage-gif-5211929](https://media.tenor.com/KcxM_gDIn2AAAAAC/naruto-shippuden-naruto.gif
+)" width="400" alt="Naruto Sage Mode Frog Summon" />
 </p>
 
 <p align="center">
