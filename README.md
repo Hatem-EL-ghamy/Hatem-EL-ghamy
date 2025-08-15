@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/B41NyGxu6k0AAAAM/solo-leveling-statue.gif" width="100"/>
+  <img src="https://media.tenor.com/B41NyGxu6k0AAAAM/solo-leveling-statue.gif" width="300"/>
 </div>
 
 <div align="center">
