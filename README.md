@@ -84,7 +84,12 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 - 💪 Like **Rock Lee**, I value consistency over talent.  
 - 🌌 Like **Luffy**, I dream big.  
 - 🧩 Like **Kurapika**, I pay attention to every detail.  
-- 🏹 Like **Gon**, I aim for constant growth.  
+- 🏹 Like **Gon**, I aim for constant growth.
+
+- <div align="center">
+  <h3 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h3>
+  <img src="https://media.tenor.com/541QnIh426kAAAAC/boy-eyes.gif">
+
 
 ---
 
