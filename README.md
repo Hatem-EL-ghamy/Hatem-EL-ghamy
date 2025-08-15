@@ -8,8 +8,11 @@
 </div>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5006&pause=1000&color=0F520C&width=310&height=45&lines=->+Hi+There,+I'm+ HatemNasserElghamy+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=5006&pause=1000&color=0F520C&width=310&height=45&lines=->+Hi+There,+I'm+ Hatem + Nasser + Elghamy +." alt="Typing SVG" /></a>
 </div>
+</div>
+<div align="center"><a href='https://www.codewars.com/users/justzeiad' target='_blank'><img src='https://www.codewars.com/users/justzeiad/badges/micro'></a></div><br>
+
 
 <h1 align="center">🥷 Hey there, I'm HatemNasserElghamy 🏴‍☠️</h1>
 <h3 align="center">💙 Flutter Developer | 🎨 Creative UI Designer | 🧠 Anime Mindset</h3>
