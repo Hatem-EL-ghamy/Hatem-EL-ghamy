@@ -88,7 +88,7 @@ Every project I make feels like setting sail on the 🌊 **Grand Line** from **O
 
 - <div align="center">
   <h3 align="center">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~</h3>
-  <img src="https://media.tenor.com/541QnIh426kAAAAC/boy-eyes.gif">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fnaruto-gif-wallpaper-gifs&psig=AOvVaw2UeTH9XQFb7AJJNB9tr6Ho&ust=1755358756819000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDOjpGTjY8DFQAAAAAdAAAAABAE">
 
 
 ---
